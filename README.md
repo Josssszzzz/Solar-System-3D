@@ -12,7 +12,7 @@ archivo HTML, sin instalación ni servidor.
 |---|---|
 | `sistema-solar-3d.html` | **El simulador completo.** Es el que quieres abrir. |
 | `sistema-solar.html` | Versión mínima en canvas 2D (8 planetas, órbitas circulares). Útil si no hay internet. |
-| `.respaldo-v1.html` | Copia de la versión anterior del simulador 3D. Puedes borrarla. |
+
 
 ## Cómo se abre
 
